@@ -2,5 +2,5 @@
 
 ### Running Command
 ```bash 
-python your_script.py --model /path/to/model.onnx --labels label.txt --input-dir /path/to/images --output-dir /path/to/output/images
+python Onnx_Infer.py --model /path/to/model.onnx --labels label.txt --input-dir /path/to/images --output-dir /path/to/output/images
 
